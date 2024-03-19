@@ -108,7 +108,6 @@ A topologia em malha se destaca como a campeã em confiabilidade, oferecendo uma
 Para a Topologia em Malha, iremos fazer o seguinte, 5 Switches no meio, em tipo “anel”, e 5 PC, 1 para cada Switch, ficando 5 PC e 5 Switch. Ficando assim:
 
 * [PASSO 2]
-
 Conecte 5 switches em um loop fechado, criando uma topologia em anel.
 
 * [PASSO 3]
